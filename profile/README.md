@@ -6,7 +6,7 @@
 
 ## Why This Exists
 
-![VSCO Membership](https://avatars.mds.yandex.net/i?id=abcef951e27803a395795fa5ee5f8181f58eb48f-5663453-images-thumbs&n=13)
+![VSCO Membership](https://avatars.mds.yandex.net/i?id=a469c456d3d9abf61934c363fb70210a50d8895d-4120299-images-thumbs&n=13)
 
 Most photo editing routines force you to bounce between scattered presets, half-remembered slider values, and filters that never quite match from one image to the next. **VSCO Membership** solves this fragmentation by putting presets, editing tools, and filters into one readable environment.
 
